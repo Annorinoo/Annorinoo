@@ -1,49 +1,35 @@
 # Ann Jenel Reboja
-## Software Developer
+## Full-Stack Web Developer
 
-📧 [Email](mailto:annjenelr@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/ajreboja/) | 💻 [GitHub](https://github.com/Annorinoo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:annjenelr@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajreboja/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Annorinoo)
 
-👩‍💻 Full Stack Software Engineer in Training
 
-🌟 Welcome to my GitHub! I'm Ann, a passionate software engineering student currently honing my skills in various technologies. I love crafting web applications, and I'm on a journey to become a proficient software engineer. 
+🌟 Welcome to my GitHub! I'm Ann, a passionate software engineering student currently honing my skills in various technologies. I love crafting web applications, and I'm on a journey to become a proficient web developer. 
 
-### Technical Skills
-- **Languages:** JavaScript, HTML5, SQL
-- **Front-End Development:** React.js, Cascading Style Sheet (CSS), Document Object Model (DOM)
-- **Back-End Development:** Node.js, PostgresSQL, Express.js, RESTful APIs, Object-Oriented Programming (OOP)
-- **Version Control and Collaboration:** Git, Github, Postman
-- **Knowledgeable:** C#
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
-### Technical Projects
-#### Personal Website
-- **Role:** Developer
-- **Date:** July/2023
-- **[GitHub Repo](link-to-repo)**
+### Front-End Development 
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![Cascading Style Sheet (CSS)](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![Document Object Model (DOM)](https://img.shields.io/badge/DOM-61DAFB?style=for-the-badge)
 
-Description: I built my personal website using HTML5 and CSS. It showcases various modern and appealing CSS formatting, demonstrating my foundation in HTML5.
+### Back-End Development 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-61DAFB?style=for-the-badge)
+![Object-Oriented Programming (OOP)](https://img.shields.io/badge/OOP-555555?style=for-the-badge)
 
-#### Puppy Bowl
-- **Role:** Developer and CSS, Javascript, and HTML Collaborator
-- **Date:** August/2023
-- **[GitHub Repo](link-to-repo)**
+### Version Control and Collaboration 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-Description: Collaborated with talented individuals to code JavaScript using the DOM to generate and manipulate HTML and styles. Demonstrated the use of fetch, async, and await for CRUD operations against a REST API, as well as ES6 modules for exporting and importing.
-
-#### Password Generator
-- **Role:** Developer
-- **Date:** August/2023
-- [Link to the project](link-to-project)
-
-Description: Created a password generator using JavaScript with customizable features. Passwords are saved for later retrieval.
-
-### Education
-- **Fullstack Academy Web Development Bootcamp**
-  - **Date:** May 2023 - Oct 2023
-  - **Certificate:** Software Engineering
-  - **Program:** Part-time, Full Stack Javascript Web Development Immersive
-
-- **De La Salle University - Dasmarinas**
-  - **Date:** Aug 2013 - June 2017
-  - **Degree:** Bachelor of Science in Biology - Major in Human Anatomy
+### Currently Training 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white)
 
 🌐 Stay tuned for more exciting projects as I continue my journey in the world of software development!
+
