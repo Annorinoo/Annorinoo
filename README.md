@@ -4,7 +4,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:annjenelr@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajreboja/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Annorinoo)
 
 
-🌟 Welcome to my GitHub! I'm Ann, a passionate software engineering student currently honing my skills in various technologies. I love crafting web applications, and I'm on a journey to become a proficient web developer. 
+Welcome to my GitHub! I'm Ann, a dedicated student of web development, continuously improving my skills in various technologies. I enjoy crafting effective web applications that not only work seamlessly but also provide an excellent user experience.
+
+I'm on a mission to become a proficient web developer, focusing on combining functionality and user-friendly design. Let's work together to create exceptional digital experiences! 💻🚀
+
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
